@@ -1,4 +1,5 @@
 version: '3.4'
+x-aws-vpc:"vpc-075601fc18355f96c"
 services:
   web:
     image: public.ecr.aws/w0f5g4k6/javaweb
